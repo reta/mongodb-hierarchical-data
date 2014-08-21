@@ -1,4 +1,4 @@
-com.example.spring.mongodb
+mongodb-hierarchical-data
 ==============
 
 Storing hierarchical data in MongoDB
